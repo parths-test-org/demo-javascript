@@ -7,6 +7,8 @@ function isEven(x){
 
 function isNumber(num){
     let x = undefined
+    let y = undefined
+    let z = 10
     x= num % 2
     if(false)           {
         console.log("Number is false")
