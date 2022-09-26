@@ -73,3 +73,7 @@ function checkYoda(){
         console.log("I am yoda")
     }
 }
+
+const mult = (x, y) {
+  return x * y 
+}
